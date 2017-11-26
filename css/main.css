@@ -91,10 +91,26 @@ footer {
   font-size: 5rem;
   color: #f2f2f2;
   background-color: #666;
-  border: 3px 0px;
+  border: 3px 0;
   border-color: #333;
   border-style: solid;
   padding: .4em .2em;
   font-style: normal;
   float: left;
+}
+
+figure {
+  display: block;
+  width: 300px;
+  float: right;
+  border-width: 3px;
+  border-color: #333;
+  border-style: solid;
+  border: 3px 0;
+  padding: .4em .2em;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .875rem;
 }
