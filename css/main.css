@@ -85,8 +85,6 @@ footer {
  END DO NOT CHANGE ZONE
  ##########################################################
 */
-
-/* Write your CSS here */
 .wrapper > p:first-child::first-letter {
   font-size: 5rem;
   color: #f2f2f2;
