@@ -101,7 +101,6 @@ footer {
 }
 
 figure {
-  display: block;
   width: 300px;
   float: right;
   border-top: 3px solid #333;
