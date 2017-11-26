@@ -113,4 +113,16 @@ figure {
 figcaption {
   font-style: italic;
   font-size: .875rem;
+  padding: 6px 0;
+}
+
+blockquote {
+  float: left;
+  width: 300px;
+  font-size: 1.5rem;
+  color: #666;
+  border: 3px 0;
+  border-color: #333;
+  border-style: solid;
+  padding: 6px 0;
 }
