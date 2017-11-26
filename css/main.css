@@ -92,9 +92,10 @@ footer {
   background-color: #666;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: .2em .2em;
+  padding: .2em;
   font-style: normal;
   float: left;
+  vertical-align: top;
   margin-left: -40px;
   margin-right: 6px;
 }
