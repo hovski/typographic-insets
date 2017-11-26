@@ -107,6 +107,7 @@ figure {
   border-bottom: 3px solid #333;
   padding: .4em 0;
   margin-right: -80px;
+  margin-left: 5px;
 }
 
 figcaption {
