@@ -95,6 +95,8 @@ footer {
   padding: .4em .2em;
   font-style: normal;
   float: left;
+  margin-left: -40px;
+  margin-right: .4em;
 }
 
 figure {
@@ -103,7 +105,7 @@ figure {
   float: right;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding: .4em .2em;
+  padding: .4em 0;
 }
 
 figcaption {
@@ -120,4 +122,5 @@ blockquote {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   padding: 6px 0;
+  margin-left: -40px;
 }
